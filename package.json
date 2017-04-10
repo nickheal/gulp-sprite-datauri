@@ -1,14 +1,14 @@
 {
   "name": "gulp-sprite-datauri",
   "description": "Converts images to sass variables in datauri format",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Nick Heal",
     "email": "nick3_4@hotmail.com",
     "url": "http://nickheal.com"
   },
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "datauri": "^1.0.5",
     "through2": "^2.0.3"
   }
